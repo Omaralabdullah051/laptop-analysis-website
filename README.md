@@ -1,10 +1,23 @@
-# Getting Started with Create React App
+# Laptop Analysis Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Site Link: [Laptop Analysis Website](https://laptop-analysis-website.netlify.app/).
 
-## Available Scripts
+## Overall project specifiacation:
 
-In the project directory, you can run:
+In the overall project, you will found:
+
+ - I insalled react-router-dom version 6 and set my routes in my overall projects.
+
+ - I used tailwind css with some customization in index.css with component & base layer directives.
+
+ - I installed and used reacharts for building some charts.
+
+ - I added blog route and write some significant questions answers.
+
+
+### Available Scripts:
+
+In the project directory you can run:
 
 ### `npm start`
 
