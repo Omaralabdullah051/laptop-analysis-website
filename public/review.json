@@ -9,7 +9,7 @@
     {
         "name": "Barrett Rasmussen",
         "id": "6249e1f65e57745b4bed650f",
-        "review": "Whatever, there is always some cost related issues in lenevo products",
+        "review": "Whatever, there is always some cost related issues in lenovo products",
         "image": "./images/person2.jpg",
         "rating": 3.9
     },
@@ -23,21 +23,21 @@
     {
         "name": "Dale Parrish",
         "id": "6249e1f6cb2a2312a2d6ec83",
-        "review": "Lenevo always present with some magnificant product. Hope it will be the best.",
+        "review": "Lenovo always present with some magnificant product. Hope it will be the best.",
         "image": "./images/person4.jpg",
         "rating": 4.9
     },
     {
         "name": "Matilda Barber",
         "id": "6249e1f64b118194ab2e6fbd",
-        "review": "Actually, People are so much afraid when they buy lenevo products.I don't know why. But it is something special.",
+        "review": "Actually, People are so much afraid when they buy lenovo products. I don't know why. But it is something special.",
         "image": "./images/person5.jpg",
         "rating": 4.2
     },
     {
         "name": "Estela Norris",
         "id": "6249e1f69273203d5b493a33",
-        "review": "Although, Lenovo need a lot of improvement",
+        "review": "However, Lenovo needs a lot of improvement",
         "image": "./images/person6.jpg",
         "rating": 3.4
     }
