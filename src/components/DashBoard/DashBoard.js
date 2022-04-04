@@ -15,7 +15,7 @@ const DashBoard = () => {
     }, [])
 
     return (
-        <div className='md:grid grid-cols-2 mt-10 p-10 gap-10' >
+        <div className='md:grid md:grid-cols-2 mt-5 mb-5 p-2 md:p-10 gap-10' >
             {<Chart1 data={data} />}
             {<Chart2 data={data} />}
             {<Chart3 data={data} />}

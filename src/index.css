@@ -3,6 +3,23 @@
 @tailwind utilities;
 
 
+@layer components {
+  .header-style {
+    @apply flex justify-center items-center bg-slate-700 h-16 text-xs;
+  }
+
+  .btn-style {
+    @apply py-2 bg-gray-700 rounded text-gray-50 px-4 mt-2 mb-2;
+  }
+
+  .review-container {
+    @apply mt-4 border-2 rounded p-3 pb-5;
+  }
+}
+
+
+
+
 @layer base {
   h1 {
     @apply text-6xl;

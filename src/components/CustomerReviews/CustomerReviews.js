@@ -7,7 +7,7 @@ const CustomerReviews = () => {
     return (
         <div className='md:mt-20'>
             <h4 className='text-center font-semibold'>Cutomer Revies(3)</h4>
-            <div className='grid grid-cols-3 gap-6 p-8'>
+            <div className='md:grid md:grid-cols-3 md:gap-6 p-8'>
                 {
                     reviews.slice(0, 3).map(review => <Review review={review} key={review.id}></Review>)
                 }

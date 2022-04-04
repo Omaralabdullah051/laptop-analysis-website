@@ -2,11 +2,11 @@
 
 Live Site Link: [Laptop Analysis Website](https://laptop-analysis-website.netlify.app/).
 
-## Overall project specifiacation:
+## Overall project specification:
 
 In the overall project, you will found:
 
- - I insalled react-router-dom version 6 and set my routes in my overall projects.
+ - I installed react-router-dom version 6 and set my routes in my overall project.
 
  - I used tailwind css with some customization in index.css with component & base layer directives.
 

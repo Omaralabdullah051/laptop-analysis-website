@@ -4,8 +4,8 @@ import { Area, AreaChart, CartesianGrid, Tooltip, XAxis, YAxis } from 'recharts'
 const Chart2 = ({ data }) => {
     return (
         <div>
-            <h3 className='font-semibold ml-28 text-cyan-700'>Investment VS Revenue</h3>
-            <AreaChart width={600} height={350} data={data}
+            <h3 className='text-base text-center md:text-3xl md:text-left font-semibold md:ml-28 text-cyan-700 mt-20 md:mt-0 mb-5'>Investment VS Revenue</h3>
+            <AreaChart width={300} height={200} data={data}
                 margin={{ top: 10, right: 30, left: 0, bottom: 0 }}>
                 <defs>
                     <linearGradient id="colorUv" x1="0" y1="0" x2="0" y2="1">
@@ -24,7 +24,7 @@ const Chart2 = ({ data }) => {
                 <Area type="monotone" dataKey="revenue" stroke="#82ca9d" fillOpacity={1} fill="url(#colorPv)" />
                 <Area type="monotone" dataKey="investment" stroke="#8884d8" fillOpacity={1} fill="url(#colorUv)" />
             </AreaChart>
-        </div>
+        </div >
     );
 };
 
